@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Docker volumes
-./docker/volumes/mongodb_data
+docker/volumes
